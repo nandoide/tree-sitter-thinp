@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nandoide/tree-siter-thinp.git"
+    "url": "git+https://github.com/nandoide/tree-sitter-thinp.git"
   },
   "keywords": [
     "tree-sitter",
@@ -19,9 +19,9 @@
   "author": "nandoide",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nandoide/tree-siter-thinp/issues"
+    "url": "https://github.com/nandoide/tree-sitter-thinp/issues"
   },
-  "homepage": "https://github.com/nandoide/tree-siter-thinp#readme",
+  "homepage": "https://github.com/nandoide/tree-sitter-thinp#readme",
   "dependencies": {
     "nan": "^2.14.2"
   },
