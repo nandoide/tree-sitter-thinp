@@ -1,0 +1,31 @@
+{
+  "name": "@nandoide/tree-sitter-thinp",
+  "version": "1.0.0",
+  "description": "thinp music writing grammar",
+  "main": "index.js",
+  "scripts": {
+    "test": "thinp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandoide/tree-siter-thinp.git"
+  },
+  "keywords": [
+    "tree-sitter",
+    "thinp",
+    "music",
+    "chords"
+  ],
+  "author": "nandoide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nandoide/tree-siter-thinp/issues"
+  },
+  "homepage": "https://github.com/nandoide/tree-siter-thinp#readme",
+  "dependencies": {
+    "nan": "^2.14.2"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.17.3"
+  }
+}
