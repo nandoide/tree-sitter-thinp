@@ -1,6 +1,6 @@
 {
   "name": "@nandoide/tree-sitter-thinp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "thinp music writing grammar",
   "main": "index.js",
   "scripts": {
